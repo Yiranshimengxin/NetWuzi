@@ -1,0 +1,8 @@
+C:\Unity\WuZi\WuZi\WuZi\bin\Debug\WuZi.exe.config
+C:\Unity\WuZi\WuZi\WuZi\bin\Debug\WuZi.exe
+C:\Unity\WuZi\WuZi\WuZi\bin\Debug\WuZi.pdb
+C:\Unity\WuZi\WuZi\WuZi\obj\Debug\WuZi.csproj.AssemblyReference.cache
+C:\Unity\WuZi\WuZi\WuZi\obj\Debug\WuZi.csproj.SuggestedBindingRedirects.cache
+C:\Unity\WuZi\WuZi\WuZi\obj\Debug\WuZi.csproj.CoreCompileInputs.cache
+C:\Unity\WuZi\WuZi\WuZi\obj\Debug\WuZi.exe
+C:\Unity\WuZi\WuZi\WuZi\obj\Debug\WuZi.pdb
